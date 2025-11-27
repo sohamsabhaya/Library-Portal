@@ -1,6 +1,6 @@
 # Library Management System
 
-Simple Java-based Library Management System. This repository contains a Java source file and an SQL dump to create or populate the database used by the application.
+Simple Java-based Library Management System with SQL as database.
 
 Files
 - `libraryportal.java` — main Java source for the library portal application.
