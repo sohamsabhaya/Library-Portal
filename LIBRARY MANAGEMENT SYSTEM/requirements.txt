@@ -1,0 +1,9 @@
+Java JDK >= 8
+MySQL or MariaDB (or other compatible RDBMS)
+JDBC driver for your DB (e.g. MySQL Connector/J)
+ - Maven coord (optional): mysql:mysql-connector-java:8.0.x
+IDE (optional): IntelliJ IDEA, Eclipse, or VS Code with Java extensions
+
+Notes:
+- This is a Java project; there are no Python `requirements.txt` packages.
+- Place the JDBC driver on the classpath when running the application if your runtime does not provide it.
